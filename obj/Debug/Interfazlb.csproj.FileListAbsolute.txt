@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Interfazlb\bin\Debug\Interfazlb.exe.config
+C:\Users\ADMIN\source\repos\Interfazlb\bin\Debug\Interfazlb.exe
+C:\Users\ADMIN\source\repos\Interfazlb\bin\Debug\Interfazlb.pdb
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.g.resources
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.exe
+C:\Users\ADMIN\source\repos\Interfazlb\obj\Debug\Interfazlb.pdb
